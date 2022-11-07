@@ -7,7 +7,24 @@ depending on your motherboard it may be called something different in your bios
 * small update 2/11/2022
   * added new bypass method for new EasyAntiCheat client
   * supported mono-injection)
+* update 09/10/2022
+  * improved security issues
 
+  * added new bypass + other one detected
+
+  * fixed imports crashing
+
+  * added more methods to inject
+
+  * added panel for p2c devs
+
+* update 28/09/2022
+  * added VT support for EAC 
+  * added supports SSDT hooks 
+  * added support R3 Hook 
+  * added hidden injection 
+  * supports hidden injections 
+  * software: runs stable without issues
 
 # active updates + changes to keep this undetected and safe to use !
 # version 2.2
