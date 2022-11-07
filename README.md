@@ -92,7 +92,7 @@ make sure your dll is in the same folder re-name your dll to test.dll if not it 
 * Q: Is there a risk of me using this ? | A: Of course there is as anything public can become detected
 # changes
 
-** 21/09/2022
+() 21/09/2022
 fixed threading issues ( causing crashes )
 added faster loading times
 added Operation spoofing
