@@ -19,3 +19,25 @@ make sure your dll is in the same folder re-name your dll to test.dll if not it 
 * Open the injector -> then type out your game
 * hit enter key after you have typed it out
 * wait around 10-20 seconds for it to initalize
+
+# Supports Intel + Amd Cpu's
+# Injection methods
+* Manual Map
+* load libary
+* x86 / x64 support
+* APC Injection
+* SetWindowsHook ( uses window class name to inject )
+* Hyper-Visor
+* RWX Injection
+
+# Injection - > extra information
+* CreateRemoteThread
+* NtCreateThreadEx
+* RtlCreateUserThread
+* Delayed Injection ( choose how long you want to delay it for in )
+* Changes Started Thread's Start Address
+* Create Threads + Detours can be used within your dll
+* Clears Loaded Module's PE Headers
+* Changes Started Thread's Start Address
+
+# other stuff
