@@ -2,7 +2,7 @@
 # LEAVE A STAR IF WORKED
 # READ FULL POST
 # if you are interested in the private source you can purchase source via discord : SHEEP#7641
-#before using make sure Hypervisor suport is on in bios
+# before using make sure Hypervisor suport is on in bios
 depending on your motherboard it may be called something different in your bios
 # active updates + changes to keep this undetected and safe to use !
 # version 2.2
