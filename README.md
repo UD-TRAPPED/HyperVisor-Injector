@@ -35,12 +35,12 @@ depending on your motherboard it may be called something different in your bios
 <details>
 <summary>update 28/09/2022</summary>
 <br>
-   # added VT support for EAC 
-   # added supports SSDT hooks
-   # added support R3 Hook
-   # added hidden injection
-   # supports hidden injections 
-   # software: runs stable without issues
+   <br> added VT support for EAC 
+   <br> added supports SSDT hooks
+   <br> added support R3 Hook
+   <br> added hidden injection
+   <br> supports hidden injections 
+   <br> software: runs stable without issues
 <br><br>
 </details>
 
