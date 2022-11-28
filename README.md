@@ -102,7 +102,7 @@ make sure your dll is in the same folder
 
 
 ## Requirements
-- C++ Redistributables 2015, 2017, 2019, and 2022 
+- C++ Redistributables 2015, 2017, 2019, and 2022
 
 # Remote code execution
 - Execute functions in remote process
