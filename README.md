@@ -9,7 +9,7 @@ depending on your motherboard it may be called something different in your bios
 
 
 <details>
-<summary>small update 2/11/2022</summary>
+<summary>small update 11/2/2022</summary>
 <br>
    <br>added new bypass method for new EasyAntiCheat client<br>
    <br>supported mono-injection<br>
@@ -19,7 +19,7 @@ depending on your motherboard it may be called something different in your bios
 
 
 <details>
-<summary>update 09/10/2022</summary>
+<summary>update 10/09/2022</summary>
  
 <br>improved security issues<br>
 <br>  added new bypass + other one detected <br>
@@ -33,7 +33,7 @@ depending on your motherboard it may be called something different in your bios
 
 
 <details>
-<summary>update 28/09/2022</summary>
+<summary>update 09/28/2022</summary>
 <br>
    <br> added VT support for EAC 
    <br> added supports SSDT hooks
